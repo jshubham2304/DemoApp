@@ -54,18 +54,18 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public boolean onChildClick(ExpandableListView parent, View v,
                                         int groupPosition, int childPosition, long id) {
-                Toast.makeText(
-                        getApplicationContext(),
-                        expandableListTitle.get(groupPosition)
-                                + " -> "
-                                + expandableListDetail.get(
-                                expandableListTitle.get(groupPosition)).get(
-                                childPosition), Toast.LENGTH_SHORT
-                ).show();
-//                String con = expandableListDetail.get(expandableListTitle.get(groupPosition));
-//                Intent intent = new Intent(MainActivity.this,ContentDisplay.class);
-//                intent.putExtra("content","");
-//                startActivity(intent);
+//                Toast.makeText(
+//                        getApplicationContext(),
+//                        expandableListTitle.get(groupPosition)
+//                                + " -> "
+//                                + expandableListDetail.get(
+//                                expandableListTitle.get(groupPosition)).get(
+//                                childPosition), Toast.LENGTH_SHORT
+//                ).show();
+                String con = (expandableListDetail.get(expandableListTitle.get(groupPosition))).toString();
+                Intent intent = new Intent(MainActivity.this,ContentDisplay.class);
+                intent.putExtra("content",con);
+                startActivity(intent);
                 return false;
             }
         });
