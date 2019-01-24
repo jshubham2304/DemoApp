@@ -1,10 +1,12 @@
 package com.demoapp;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ExpandableListAdapter;
 import android.widget.ExpandableListView;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
@@ -52,14 +54,18 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public boolean onChildClick(ExpandableListView parent, View v,
                                         int groupPosition, int childPosition, long id) {
-//                Toast.makeText(
-//                        getApplicationContext(),
-//                        expandableListTitle.get(groupPosition)
-//                                + " -> "
-//                                + expandableListDetail.get(
-//                                expandableListTitle.get(groupPosition)).get(
-//                                childPosition), Toast.LENGTH_SHORT
-//                ).show();
+                Toast.makeText(
+                        getApplicationContext(),
+                        expandableListTitle.get(groupPosition)
+                                + " -> "
+                                + expandableListDetail.get(
+                                expandableListTitle.get(groupPosition)).get(
+                                childPosition), Toast.LENGTH_SHORT
+                ).show();
+//                String con = expandableListDetail.get(expandableListTitle.get(groupPosition));
+//                Intent intent = new Intent(MainActivity.this,ContentDisplay.class);
+//                intent.putExtra("content","");
+//                startActivity(intent);
                 return false;
             }
         });
