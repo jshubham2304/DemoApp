@@ -62,7 +62,11 @@ public class MainActivity extends AppCompatActivity {
 //                                expandableListTitle.get(groupPosition)).get(
 //                                childPosition), Toast.LENGTH_SHORT
 //                ).show();
-                String con = (expandableListDetail.get(expandableListTitle.get(groupPosition))).toString();
+                String con = (expandableListTitle.get(groupPosition)
+                                + " -> "
+                                + expandableListDetail.get(
+                                expandableListTitle.get(groupPosition)).get(
+                                childPosition));
                 Intent intent = new Intent(MainActivity.this,ContentDisplay.class);
                 intent.putExtra("content",con);
                 startActivity(intent);

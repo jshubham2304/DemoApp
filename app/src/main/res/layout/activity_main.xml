@@ -5,18 +5,18 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:paddingTop="8dp"
+    android:paddingTop="4dp"
     tools:context=".MainActivity">
 
-    <de.hdodenhof.circleimageview.CircleImageView
+    <ImageView
         android:layout_gravity="center_horizontal"
-        android:src="@drawable/googlelogo"
-        android:layout_width="70dp"
-        android:layout_height="70dp" />
+        android:src="@drawable/download"
+        android:layout_width="150dp"
+        android:layout_height="150dp" />
     <TextView
         android:gravity="center"
         android:textSize="24sp"
-        android:text="Company Name"
+        android:text="Teacher Training Module"
         android:layout_gravity="center_horizontal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
