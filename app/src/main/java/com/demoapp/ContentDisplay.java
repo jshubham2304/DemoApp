@@ -6,7 +6,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class ContentDisplay extends AppCompatActivity {
-//    TextView con = (TextView)findViewById(R.id.contTitle);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -14,6 +13,6 @@ public class ContentDisplay extends AppCompatActivity {
         setContentView(R.layout.activity_content_display);
         String st = getIntent().getStringExtra("content");
         Toast.makeText(getApplicationContext(),st,Toast.LENGTH_SHORT).show();
-//        con.setText(st);
+
     }
 }
