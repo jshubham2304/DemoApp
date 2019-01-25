@@ -16,6 +16,8 @@
     <TextView
         android:gravity="center"
         android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
         android:text="Teacher Training Module"
         android:layout_gravity="center_horizontal"
         android:layout_width="wrap_content"
