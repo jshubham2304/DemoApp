@@ -2,6 +2,7 @@ package com.demoapp;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ExpandableListAdapter;
@@ -18,12 +19,19 @@ public class MainActivity extends AppCompatActivity {
     ExpandableListAdapter expandableListAdapter;
     List<String> expandableListTitle;
     LinkedHashMap<String, List<String>> expandableListDetail;
-
+    FloatingActionButton floatingActionButton;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        floatingActionButton = (FloatingActionButton) findViewById(R.id.floatingActionButton);
+        floatingActionButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this,AboutUs.class));
+            }
+        });
         expandableListView = (ExpandableListView) findViewById(R.id.expandableListView);
         expandableListDetail = listingData.getData();
         expandableListTitle = new ArrayList<String>(expandableListDetail.keySet());
