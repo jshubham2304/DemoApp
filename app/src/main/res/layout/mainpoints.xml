@@ -21,7 +21,8 @@
     android:layout_height="wrap_content"
     android:text="Title"
     android:id="@+id/header"
-    android:textSize="20sp"
+    android:padding="3dp"
+    android:textSize="16sp"
     android:textColor="@android:color/black"
     android:layout_margin="5dp"
     android:layout_gravity="center"/>

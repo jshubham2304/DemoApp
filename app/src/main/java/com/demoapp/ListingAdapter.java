@@ -1,7 +1,10 @@
 package com.demoapp;
 
 import android.content.Context;
+import android.content.Intent;
+import android.os.Bundle;
 import android.support.annotation.NonNull;
+import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -11,14 +14,15 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
-
+import java.util.List;
 
 
 public class ListingAdapter extends RecyclerView.Adapter<ListingAdapter.ViewHolder> {
-    private ArrayList<String> android;
+    private ArrayList<DataStorage> android;
     private Context context;
 
-    public ListingAdapter(Context context,ArrayList<String> android) {
+
+    public ListingAdapter(Context context, ArrayList<DataStorage> android) {
         this.android = android;
         this.context = context;
     }
@@ -30,9 +34,19 @@ public class ListingAdapter extends RecyclerView.Adapter<ListingAdapter.ViewHold
     }
 
     @Override
-    public void onBindViewHolder(@NonNull ViewHolder viewHolder, int i) {
-        viewHolder.tv_android.setText(android.get(i));
-
+    public void onBindViewHolder(@NonNull ViewHolder viewHolder, final int i) {
+        viewHolder.tv_android.setText(android.get(i).title);
+        viewHolder.mycard.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Toast.makeText(context, ""+i, Toast.LENGTH_SHORT).show();
+                Intent intent = new Intent(context,ContentDisplay.class);
+                Bundle bundle = new Bundle();
+                bundle.putString("title", String.valueOf(android.get(i).title));
+                bundle.putString("desc", String.valueOf(android.get(i).description));
+                context.startActivity(intent,bundle);
+            }
+        });
     }
 
     @Override
@@ -42,10 +56,12 @@ public class ListingAdapter extends RecyclerView.Adapter<ListingAdapter.ViewHold
 
     public class ViewHolder extends RecyclerView.ViewHolder{
         private TextView tv_android;
+        private CardView mycard;
         public ViewHolder(View view) {
             super(view);
 
             tv_android = (TextView)view.findViewById(R.id.header);
+            mycard =(CardView)view.findViewById(R.id.card);
         }
     }
 
