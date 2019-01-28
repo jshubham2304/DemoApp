@@ -26,16 +26,15 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
-    <ExpandableListView
-        android:layout_gravity="center_horizontal"
-        android:layout_below="@id/text"
-        android:layout_marginTop="16dp"
-        android:id="@+id/expandableListView"
-        android:layout_height="match_parent"
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
         android:layout_width="match_parent"
-        android:indicatorLeft="?android:attr/expandableListPreferredItemIndicatorLeft"
-        android:divider="@android:color/darker_gray"
-        android:dividerHeight="0.5dp" />
+        android:layout_height="match_parent"
+        android:layout_below="@id/text"
+        android:layout_alignParentStart="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="16dp" />
 
 
     <android.support.design.widget.FloatingActionButton

@@ -4,6 +4,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.ExpandableListAdapter;
 import android.widget.ExpandableListView;
@@ -14,72 +16,32 @@ import java.util.LinkedHashMap;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-
-    ExpandableListView expandableListView;
-    ExpandableListAdapter expandableListAdapter;
-    List<String> expandableListTitle;
-    LinkedHashMap<String, List<String>> expandableListDetail;
+        RecyclerView mylist;
     FloatingActionButton floatingActionButton;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        mylist = (RecyclerView)findViewById(R.id.recyclerView);
+        mylist.setHasFixedSize(true);
+        RecyclerView.LayoutManager layoutManager = new LinearLayoutManager(this);
+        mylist.setLayoutManager(layoutManager);
+        ListingAdapter adapter = new ListingAdapter(this,getdataTitle() );
+        mylist.setAdapter(adapter);
         floatingActionButton = (FloatingActionButton) findViewById(R.id.floatingActionButton);
         floatingActionButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this,AboutUs.class));
+                startActivity(new Intent(MainActivity.this, AboutUs.class));
             }
         });
-        expandableListView = (ExpandableListView) findViewById(R.id.expandableListView);
-        expandableListDetail = listingData.getData();
-        expandableListTitle = new ArrayList<String>(expandableListDetail.keySet());
-        expandableListAdapter = new listAdapter(this, expandableListTitle, expandableListDetail);
-        expandableListView.setAdapter(expandableListAdapter);
-        expandableListView.setOnGroupExpandListener(new ExpandableListView.OnGroupExpandListener() {
+    }
 
-            @Override
-            public void onGroupExpand(int groupPosition) {
-//                Toast.makeText(getApplicationContext(),
-//                        expandableListTitle.get(groupPosition) + " List Expanded.",
-//                        Toast.LENGTH_SHORT).show();
+    private ArrayList<String> getdataTitle() {
+            ArrayList<String> demo = new ArrayList<String>();
+            for(int i=0;i<25;i++){
+                demo.add("Title "+i);
             }
-        });
-
-        expandableListView.setOnGroupCollapseListener(new ExpandableListView.OnGroupCollapseListener() {
-
-            @Override
-            public void onGroupCollapse(int groupPosition) {
-//                Toast.makeText(getApplicationContext(),
-//                        expandableListTitle.get(groupPosition) + " List Collapsed.",
-//                        Toast.LENGTH_SHORT).show();
-
-            }
-        });
-
-        expandableListView.setOnChildClickListener(new ExpandableListView.OnChildClickListener() {
-            @Override
-            public boolean onChildClick(ExpandableListView parent, View v,
-                                        int groupPosition, int childPosition, long id) {
-//                Toast.makeText(
-//                        getApplicationContext(),
-//                        expandableListTitle.get(groupPosition)
-//                                + " -> "
-//                                + expandableListDetail.get(
-//                                expandableListTitle.get(groupPosition)).get(
-//                                childPosition), Toast.LENGTH_SHORT
-//                ).show();
-                String con = (expandableListTitle.get(groupPosition)
-                                + " -> "
-                                + expandableListDetail.get(
-                                expandableListTitle.get(groupPosition)).get(
-                                childPosition));
-                Intent intent = new Intent(MainActivity.this,ContentDisplay.class);
-                intent.putExtra("content",con);
-                startActivity(intent);
-                return false;
-            }
-        });
+            return  demo;
     }
 }
