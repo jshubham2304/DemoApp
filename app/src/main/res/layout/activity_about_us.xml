@@ -20,7 +20,7 @@
             <de.hdodenhof.circleimageview.CircleImageView
                 android:layout_width="96dp"
                 android:layout_height="72dp"
-                android:src="@drawable/googlelogo"
+                android:src="@drawable/colour"
                 android:layout_weight="1"/>
 
             <LinearLayout
@@ -57,7 +57,7 @@
             <de.hdodenhof.circleimageview.CircleImageView
                 android:layout_width="96dp"
                 android:layout_height="72dp"
-                android:src="@drawable/googlelogo"
+                android:src="@drawable/colour"
                 android:layout_weight="1"/>
 
             <LinearLayout
@@ -95,7 +95,7 @@
             <de.hdodenhof.circleimageview.CircleImageView
                 android:layout_width="96dp"
                 android:layout_height="72dp"
-                android:src="@drawable/googlelogo"
+                android:src="@drawable/colour"
                 android:layout_weight="1"/>
 
             <LinearLayout
