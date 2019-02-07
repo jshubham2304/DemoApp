@@ -1,4 +1,733 @@
 <resources>
     <string name="app_name">TTM</string>
     <string name="description">Nature, in the broadest sense, is the natural, physical, or material world or universe. \"Nature\" can refer to the phenomena of the physical world, and also to life in general. The study of nature is a large, if not the only, part of science. Although humans are part of nature, human activity is often understood as a separate category from other natural phenomena.\n </string>
+
+    <string name="point1_title">Utilization Of Available Resources - An Action Oriented Programme</string>
+    <string name="point2_title">Setting Up A Consumer Cooperative Store, A Consumer Outlet For Purchase Of Day  To Day Consumption Items</string>
+    <string name="point3_title">Capacity building of rural women in tailoring</string>
+    <string name="point4_title">Evaluation of Smokeless Chulhas installed</string>
+    <string name="point5_title">Capacity building on income generating avenues</string>
+    <string name="point6_title">Capacity building on income generating avenues</string>
+    <string name="point7_title">Fuel Saving Technology-Thermal Efficiency of different kinds of fuel woods</string>
+    <string name="point8_title">TRYSEM project on tailoring (Garment making)</string>
+    <string name="point9_title">Effect of kitchen organization on  time spent, distance covered and posture variations during cooking</string>
+    <string name="point10_title">Ergonomic studies-Drudgery reduction in Home, farm and allied activities </string>
+    <string name="point11_title">Ergonomics of Farm Women’s Drudgery- Ergonomic assessment of Wheat Harvesting and Cutting and collecting fodder Activity</string>
+    <string name="point12_title">Ergonomic Assessment of Briquetting</string>
+    <string name="point13_title">Ergonomic Assessment of Maize Shelling Activity</string>
+    <string name="point14_title">Ergonomic Assessment of Drudgery Prone Activity Cleaning and Grading of Wheat</string>
+    <string name="point15_title"> Ergonomic Assessment of Hand Operated Maize Sheller</string>
+    <string name="point16_title">Vadi Maker</string>
+    <string name="point17_title">Cotton Picking Machine</string>
+    <string name="point18_title">Cotton Stalk Puller</string>
+    <string name="point19_title">Single Line Ground Nut Stripper</string>
+    <string name="point20_title">Comb Stripper for Groundnuts</string>
+    <string name="point21_title">FiberKelu (Roof Tile)</string>
+    <string name="point22_title">Multipurpose Harvest Bag and Capron</string>
+    <string name="point23_title">AARAM - Cushioned Seat</string>
+    <string name="point24_title">Harvest Apron &amp; vegetable Plucker: An Asset for the Women Farmers</string>
+    <string name="point25_title">Manual Sapling Transplanter</string>
+
+
+
+    <string name="point25_bb">Transplantation is the process of transplanting specifically raised saplings or seedlings on the field with desired spacing. Transplanting and planting vegetables in traditional way, is a hard job and dependent on women farmer. In addition, land preparation and transplantation should be done in a period of short time as per season. Conventional method of transplanting is not a healthy method as the farmers have to bend from waist and stoop while transplanting saplings which cause health hazard later on.  Therefore, mechanical transplanting of vegetable’s seedlings is necessary to save labour, time and energy costs and to mitigate drudgery of women of extreme forward trunk flexion. Manual sapling transpalnter is a good option for this.
+        </string>
+
+    <string name="point25_td">A Sapling Trans planter was introduced to plant vegetable saplings and was field tested for its efficacy in comparison to back breaking conventional method of transplanting. It’s a simple manual tool, having a metallic tube. The trans planter has a hole at the bottom to plant in the standing position. A pair of trowels can penetrate in the soil as well as right through plastic mulching as well. In order to operate the tool, drop a seedling into guide tube, push the shut pair of trowels into the soil, grasp the latch and handle together and lift the tool straight up. The tool was tested for planting tomato saplings. The specific advantages of using the tool are:
+        \nThe operator can stand straight (no need to bend down) for planting the seedling making the process easy.
+        \nOne manual planter can equal 4 person’s working at a time providing high efficiency.
+        \nIt can be used with single or both the hands.
+        \nEconomical and easy to operate.
+        \nSuitable not only for farmers but also for anyone who loves gardening.
+        </string>
+
+    <string name="point25_wf">
+        The hand-held manual transplanter allows one person to plant hundreds of seedlings per hour.
+        This tool can be used with prepared seed- beds either through plastic mulching sheets or bare soil.
+        Used for planting seedlings of vegetables like, Tomato, Brinjal, and Chilly.</string>
+
+    <string name="point25_performance">
+
+        Convenient, time saving, improves Posture, reduced MSD
+    </string>
+    <string name="point25_ld">
+        Rural areas of Udaipur and adjoining areas
+    </string>
+    <string name="point25_oib">
+        The Physiological cost of work is reduced. Time Saved, Economical, Reduced MSD, Increased convenience.
+    </string>
+    Limitations if any:
+    <string name="point25_limitation">
+        The transplanter base should be dry and field should be watered after transplanting the saplings
+    </string>
+    <string name="point25_source">
+        DrSuman Singh &amp; DrHemuRathore
+        \nAnnual Report, AICRP – FRM, College of H Sc, Udaipur
+        \nPh 0294-2471914
+        \nEmail: sumanfrm@gmail.com
+        \nrathorehemu@rediffmail.com
+        \nwebsite: www.dmfw.org
+    </string>
+
+    <string name="point25_dtf">
+                 Tested and Refined
+        </string>
+
+
+    <string name="point25_Year">
+        2015
+    </string>
+
+
+    <string name="point25_Cost">
+        Rs 1800-3000
+        \n(Difference is due to the fabrication material)
+    </string>
+    <string name="point25_fm"></string>
+
+
+
+
+
+
+
+
+    <string name="point1_bb">
+        AICRP was started in middle of 1980 in this University. The major objective of the research was to find out the available resources in the farm families of neighbouring villages of the Udaipur city. The emphasis was laid on the extent of utilization of available resources with following
+Objectives :-\n
+To gather information regarding availability of family resources and see how far villagers are aware about village resources.
+\nTo know the extent of optimum utilization of resources, their waste and recycling.
+\nTo become aware of the women’s role in the family in term of utilization of resources.
+\nTo propose techniques/programmes for the proper use of resources.
+\nTo study the impact of the techniques/programmesprogramme on resource utilization.
+
+
+    </string>
+
+    <string name="point1_td">
+        Village resource inventory and family resource inventory was prepared in the year 1981 and was used to gather information from the selected villages
+    </string>
+    <string name="point1_wf">The inventory based trainings  were organized for the selected villages </string>
+    <string name="point1_performance">Organizing various training programmes for the women in different areas of home making for proper utilization of resources for improving the standard of living.
+\nImproving employment potentials of individual family
+\nIntroducing appropriate improved technologies in relevant areas.
+\nMotivation for mushroom plantation\n
+Action oriented programme were taken up in villages which included
+\nInstallation of hand pumps
+\nInstallation of bio gas plants
+\nInstallation of smokeless chullha    </string>
+    <string name="point1_ld">
+        Two PanchayatSamities adjacent to Udaipur were taken: Girwa and BadgaonPanchayatSamiti.\n
+From these two tribal and two non-tribal villages were selected Forty families were randomly selected for the study from these villages.
+    </string>
+    <string name="point1_oib">
+        Women were able to recognize scarce resources and learnt techniques to optimally utilize them.
+
+    </string>
+    <string name="point1_limitation">It was difficult to focus on all resources.</string>
+    <string name="point1_source">
+        AICRP on Home Science  (Family Resource Management)\n
+MPUAT, Udaipur
+    </string>
+    <string name="point1_dtf">
+
+        Trainings imparted and six Biogas plants installed initially as models.\n
+Smokeless chulhas were installed in the selected farmers kitchens
+    </string>
+    <string name="point1_Year">1980-85</string>
+    <string name="point1_Cost"></string>
+    <string name="point1_fm"></string>
+
+    <string name="point2_bb">The distributive trade of consumer goods is particularly in private hands. The traders in their business are actuated by the sole consideration of making profit and are often accused of malpractices. The problem is more acute in rural areas.
+\nThe need for consumer’s cooperative stores was therefore as strong and imperative in rural areas as it was in towns and big cities as the chances and possibilities of exploitation are as much in villages as in the towns and in cities.
+\nConsumer stores:These societies are all over the world which conducts retail sales of domestic requirement on cash basis laid down by model by laws.\n
+The difference between the purchase price and the sale price after meeting the expenses of running the concern is treated as net profit, an important change on which is the distribution of bonus on purchases made by members during the year.</string>
+    <string name="point2_td">In the repetitive visit to village the need of consumer cooperative was identified. It was thus planned to open an extension branch of consumer cooperative of College of Home Science, Udaipur. According to the plan an exhaustive list of consumer goods was made after surveying the villagers demand at all levels. The items of urgent demand were bought by college cooperative and later on when the cooperative started running in full swing, the amount was paid back to the college cooperative store. The articles then were purchased for the village cooperative store itself and by this time the articles of rare use like cloth etc. were also made available in the store. The working of cooperative store was based on certain principles for avoiding confusion. Three different registers namely, stock register, purchase register and register for daily sale were opened to maintain the accounts.</string>
+    <string name="point2_wf">It was seen that villagers were paying comparatively higher prices to the village shop keepers for procuring the things in the village itself or otherwise they had to bring even small things, from the market which was not less than 20 kms in Udaipur city. Thus, the idea of providing consumers goods at reasonable price, a consumer cooperative was started in the village. A local youth then took responsibility of running the store after training.</string>
+    <string name="point2_performance">It operated well in the operational village and based on its success a cooperative store was set up to sell vegetables grown in villages in the nearby city of Udaipur.
+</string>
+    <string name="point2_ld">Bujda village of BadgaonPanchyatSamiti of Udaipur district.</string>
+    <string name="point2_oib">A successful   consumer cooperative store was established a village and youth were trained to run the store.</string>
+    <string name="point2_limitation">It was difficult to identify a person to run the cooperative for the village.</string>
+    <string name="point2_source">Late Dr P Sundaram and Dr Suman Singh
+ \nAICRP on Home Science  (Family Resource Management)
+\nMPUAT, Udaipur</string>
+    <string name="point2_dtf">Established consumer cooperative store</string>
+    <string name="point2_Year">1985</string>
+
+
+
+    <string name="point3_bb">The rural women in our country shares abundant responsibilities and perform a wide spectrum of duties in running the family. Life of the rural women is not smooth and easy. People are confused and bewildered about the contribution of the rural women towards economy, though nobody can overlook their roles in homes, fields and other jobs. The lower the standard of living the higher and harder their workload is. An endeavour therefore was made to train these village women in the skills which they liked to learn willingly. Tailoring was such a skill which women wanted to learn.
+</string>
+    <string name="point3_td">
+        A formal skill training programme in tailoring and other such skills was planned.
+    </string>
+    <string name="point3_wf">Income generation activities for economic benefit and skill development.
+    </string>
+    <string name="point3_performance">The women learnt the skill of tailoring and started stitching their own dresses initially. Two women initiated/established their own tailoring shop.</string>
+    <string name="point3_ld">Bhujda – rural village of BadgaonPanchyatSamiti of Udaipur district.
+</string>
+    <string name="point3_oib">Two women started their own shop and started stitching clothes on payment basis.
+</string>
+    <string name="point3_limitation">Women were very raw, didn’t even knew to thread sewing machine. It was tough to train them but they were motivated to learn.
+</string>
+    <string name="point3_source">Late Dr P Sundaram
+\nAICRP on Home Science  (Family Resource Management)
+\nMPUAT, Udaipur</string>
+    <string name="point3_dtf">Initiated entrepreneurial activity in tailoring</string>
+    <string name="point3_Year">1986-88</string>
+
+
+
+
+    <string name="point4_bb">There was only one natural source of cooking fuel right from stone age i.e. firewood. The firewood as a domestic cooking fuel was extensively used mainly in rural areas &amp; semi-urban areas. Improved chulhas were used but none of them were using in the village.
+</string>
+    <string name="point4_td">Since improved chulhas are obviously better than the rural conventional chulha it became very important to make women folks aware about it.</string>
+    <string name="point4_wf">For women’s good health and smoke free smoke cooking</string>
+    <string name="point4_performance">Less of health problems and less fuel was used in comparison to  conventional chulhas
+</string>
+    <string name="point4_ld">Nora-Tribal village of BadgaonPanchyatSamiti of Udaipur district.</string>
+    <string name="point4_oib">The beneficiaries of improved chulha aware of the benefits of the improved chulhas and started using them regularly. They were happy.
+</string>
+    <string name="point4_limitation">Resistance to adopt initially and not following care instructions later</string>
+    <string name="point4_source">Late Dr P Sundaram
+\nAICRP on Home Science  (Family Resource Management)
+\nMPUAT, Udaipur</string>
+    <string name="point4_dtf">AICRP on Home Science  (Family Resource Management), MPUAT, Udaipur</string>
+    <string name="point4_Year">1989 -90</string>
+
+
+
+
+    <string name="point5_bb">Women folk who possess skills in many arts and crafts have tremendous potentials are not only earning livelihood but also create remunerative ventures provided they are given adequate training and other supplies. With this in mind the skill training was given  to them in Chalk making
+This activity was selected due to the following reasons:\n
+1. Raw materials easily available\n
+2. Finished product had good demand.\n
+3. The tasks do not demand big initial capital investment.\n
+4. By devoting a few hours in a day good quantity of finished product could be produced.</string>
+    <string name="point5_td">A short term project of training rural women in some income generating activity was sanctioned by Ministry of HRD, New Delhi. The financial sanction amounted to Rs. 8250/- and the training period was for 15 days.
+\nManufacturing cost for one box of chalk was 0.85 paisa. Cost of selling was Rs.1.40/per box.
+</string>
+    <string name="point5_wf">It was an income generating activity for women which could be easily learned and provided them extra income.</string>
+    <string name="point5_performance">The profit of the project for fifteen days was 600 INR. which was distributed among 15 beneficiaries.</string>
+    <string name="point5_ld">Nora-Tribal village of BadgaonPanchyatSamiti of Udaipur district.</string>
+    <string name="point5_oib">The women who were interested to continue the trade were selected and a DWCRA group was formed through DRDA, Udaipur. The chalks were sold to school &amp; college</string>
+    <string name="point5_limitation">No</string>
+    <string name="point5_source">Dr Suman Singh and Dr HemuRathore\n
+AICRP-FRM, College of H Sc, Udaipur</string>
+    <string name="point5_dtf">Established entrepreneurial group.</string>
+    <string name="point5_Year">1990-91</string>
+
+
+
+
+    <string name="point6_bb">Women folk who possess skills in many arts and crafts have tremendous potentials are not only earning livelihood but also create remunerative ventures provided they are given adequate training and other supplies. With this in mind the training was given in Soap making trait.This entrepreneurial activity was  selected due to the following reasons:
+\n1. Raw materials were easily available
+\n2. Finished product had good demand.
+\n3. The tasks do not demand big initial capital investment.
+\n4. By devoting a few hours in a day good quantity of finished product can be produced.
+</string>
+    <string name="point6_td">TRYSEM Project on making washing soap was sanctioned from DRDA, Udaipur. Fifteen women from stipulated list of BPL families of GIRWA PanchayatSamiti were selected for training, out of eight women took training for a period of one month. </string>
+    <string name="point6_wf">It was an income generating activity easy to learn by women and provided them extra income.</string>
+    <string name="point6_performance">A profit of Rs. 1.53 / kg was earned by the group. They sold 200 kg of the soap. They supplied to institutions and also put up a store in Gramshree fare in Udaipur.
+</string>
+    <string name="point6_ld">Nora- a Tribal village of BadgaonPanchyatSamiti of Udaipur district.</string>
+    <string name="point6_oib">The women who were interested to continue the trade were selected and a DWCRA group was formed through DRDA Udaipur. They got a revolving fund of Rs. 10000/- which was repaid to DRDA after making good profit by sale of soap.
+</string>
+    <string name="point6_limitation">Marketing was initially a limitation. If they are linked to a market the women can do a great deal of income generations through small enterprises.</string>
+    <string name="point6_source">Dr Suman Singh and Dr HemuRathore\n
+AICRP-FRM, College of H Sc, Udaipur</string>
+    <string name="point6_dtf">Capacity Building- Entrepreneurship Development</string>
+    <string name="point6_Year">1990-91</string>
+
+
+
+
+    <string name="point7_bb">Energy in whatever form it is used, is vital for conducting daily activities in rural environment be it in agriculture where pump sets are used for irrigation or small scale cottage industries where machines are used or in homes where cooking is done. It has been estimated that cooking energy accounts for half of all the energy consumed in the country. According to a study 68.5% of fuel needs of the rural masses and 41.5% of fuel needs of the urban population earlier was met from firewood. Thus an experimental study on detecting thermal efficiency of  different fuel woods was undertaken by the AICRP-FRM
+</string>
+    <string name="point7_td">The complete project was done in  two phases
+\n1. Survey
+\n2. Experimentation</string>
+    <string name="point7_wf">Orienting women about the thermal efficiency of different fuel woods collected by them for fuel, so that they use right type of fuel.
+</string>
+    <string name="point7_performance">Tamarindusindica (Imli) and Prosopis cineraria (Khejari) as fuel wood had good thermal efficiency.</string>
+    <string name="point7_ld">Nora, Nai, Sisarma and other operational villages</string>
+    <string name="point7_oib">Survey results indicated that commonly used types of fuel wood aremahua, keekar, Imli, Bhnango, White babool, Eucaluptus, desibabool, vilayatibabool, khejari and ruya etc. The amount of wood used for cooking on an average was reported to be 8-10 kg/day on an average chulha.
+\nWood having higher efficiency. Imli (21.94), Khejri (25.67) were found to be best suitable for cooking purpose.</string>
+    <string name="point7_limitation">The fuel was tested on selected smokeless chulha .the same results could be different for open chulhas.</string>
+    <string name="point7_source">Dr Suman Singh and Dr HemuRathore
+\nAICRP-FRM, College of H Sc, Udaipur</string>
+    <string name="point7_dtf">Tested thermal efficiency of fuel woods</string>
+    <string name="point7_Year">1989-90</string>
+
+
+
+    <string name="point8_bb">A TRYSEM project on tailoring was sanctioned.  Among other family clothing items they were also taught to stitch quilted cushions and bags.</string>
+    <string name="point8_td">One month training was organized in a tribal village named Undari. Each beneficiary  was given a stipend of Rs. 1000/-
+\nA Master trainer was engaged to train the women.</string>
+    <string name="point8_wf">The women got their dresses stitched from a tailor who was away from their village which costed time and money both. This training was helpful as women started stitching their own dresses and also stitched clothes of others. Thus, this training was an income generating activity for them.</string>
+    <string name="point8_performance">Three women opened their own tailoring shops. </string>
+    <string name="point8_ld">Undari, a tribal village of GirwaPanchayat in Udaipur</string>
+    <string name="point8_oib">The women participated in Gramshree- Mela’s to sell the garment. A Cooperative society of the trainees was formed. They got loan from the Tribal development department for purchasing the sewing machines.
+\nAn order of stitching 500 school uniforms was received which they completed in time.</string>
+    <string name="point8_limitation">They needed handholding, took time to get independent in getting stitching orders.
+</string>
+    <string name="point8_source">Suman Singh and HemuRathore
+\nAICRP-FRM, College of H Sc, Udaipur
+</string>
+    <string name="point8_dtf">Training in entire skill</string>
+    <string name="point8_Year">1991</string>
+
+
+
+
+    <string name="point9_bb">Kitchen is the nerve center of a house, and a rural homemaker spends about 47% of the time on an average in the kitchen. Working in kitchen for cooking involves factors concerning food itself, equipment, efficient use of work area and storage space etc. All these are physical fixtures and their choice and arrangement are of prime importance. Kitchens should be planned and designed carefully so that there is an ideal relationship between work, worker and workplace. Results of various studies regarding housing conditions in India, has revealed that very little attention has been paid to the organizations of rural kitchens. </string>
+    <string name="point9_td">Methodology consisted of field survey &amp; experimentation. A standardized meal was prepared in the existing kitchen for an average family size of 5-6 members. Observations regarding distance travelled, time spent and the postural changes were recorded. Distance travelled was measured with the help of pathway chart &amp; time through stop watch and postural changes with the help of &amp; symbols.
+\nReadings were taken in original setup in the existing kitchen.
+\nAgain the same meal was prepared in improved kitchen after making them aware of the work simplification techniques and comparison was made.
+</string>
+    <string name="point9_wf">The reduction in time and energy used in improved kitchen benefited women. It improved their work process and enhanced efficiency in working.</string>
+    <string name="point9_performance">The women liked the organized kitchen as it was less tiring (91%), Back ache was less as reported by 90% of the respondents.100% of the respondents opined that it saved time and kitchen looked organized. Time saving in improved over existing kitchen was twenty one per cent.</string>
+    <string name="point9_ld">Bujhra, Nai, Nora and Undari  villages of Girwapanchayatsamiti, Udaipur</string>
+    <string name="point9_oib">Work simplification in cooking</string>
+    <string name="point9_limitation">Many of them had open kitchens &amp; many had only one multi-purpose room</string>
+    <string name="point9_source">Dr Suman Singh and Dr HemuRathore
+\nAICRP-FRM, College of H Sc, Udaipur</string>
+    <string name="point9_dtf">Designed kitchen as per work centers</string>
+    <string name="point9_Year">1992</string>
+
+
+
+
+    <string name="point10_bb">The study was harped to access the drudgery of women in home, farm and allied activities.</string>
+    <string name="point10_td">Farm women constitute a very significant part of the working population in our country that it necessitates fuller understanding of their status and role not only as they are now but as they may be developed in future. Such understanding will mirror to some extent, allocation of their time to all types of activities within and outside the home and the magnitude of their contribution to development.</string>
+    <string name="point10_wf">Ergonomics is a science which deals with interaction of man, machine and environment for achieving high productivity &amp; women efficiency. Ergonomics assessment will determine well-being of the workers by evaluating physical characteristics, physiological and psychological capabilities of the worker. The aim was to develop most suitable conditions for women to improve their working posture and to reduce the efforts of certain movements of the women through attainment of optimal.</string>
+    <string name="point10_performance">To assess home, farm and allied activities performed by women.
+</string>
+    <string name="point10_ld">Two villages  vizThur and  Loyara of BadgaonPanchayatSamiti of Udaipur </string>
+    <string name="point10_oib">It was seen that in home activities (from all the four land holdings) lunch, dinner preparation and washing of clothes were the most drudgery prone tasks. In   agriculture    weeding and harvesting were the most drudgery prone tasks while in allied activities cutting and collection of fodder and cleaning of shed were the most drudgery prone tasks.</string>
+    <string name="point10_limitation">No</string>
+    <string name="point10_source">Dr Suman Singh and Dr HemuRathore
+\nAICRP-FRM, College of H Sc, Udaipur</string>
+    <string name="point10_dtf">Exploratory study</string>
+    <string name="point10_Year">1996-98</string>
+
+
+
+
+    <string name="point11_bb">The drudgery a farm - women undergoes is a well-known fact and cannot be denied. She performs multiple duties in home, at farm and in allied areas. The main reason because of which she is overburdened is the use of primitive tools and methods of work taking a considerable amount of her time and energy resulting in fatigue and drudgery. The main aim is to reduce their drudgery by FJM approach (Fitting the job to man) at the biomedical, physiological and cognitive levels. Ergonomics, here plays a major role as it is concerned with the design of systems in which people carry out work. All work systems involve a human component and a machine component embedded in a local environment. Improving working conditions, work as well as tools and equipment requires a systematic approach. Thus we need to know about the characteristics of people involved and also the conditions  under which the work is performed</string>
+    <string name="point11_td">The experiment was conducted using split plot design where subjects were considered as main treatment and the sickle as sub treatment. Four different brands of sickle were used to determine the physiological cost of work postural analysis of women during the activity Rating of Perceived exertion, Incidence of Musculo- skeletal problems &amp; Impact of environmental factors.
+</string>
+    <string name="point11_wf">To make the women aware of the physical stresses during work and give them solutions to eliminate the same.
+</string>
+    <string name="point11_performance"></string>
+    <string name="point11_ld">Nandvel – Dabok, Distt. Udaipur</string>
+    <string name="point11_oib">The average heart rate was similar while working with all the sickles, which ranged from 99.66 - 101 beats/min.
+\nThe task performance was perceived as difficult with local sickle and Rajasthan Agri. Depot sickle. Coverage of area under operation (sq. mt), production/unit was less while using traditional sickle in comparison to Falcon make sickle.
+\nThe average TCCW was calculated to be lowest for the sickle (S4) available at Rajasthan agriculture Depot   i.e. 547.26 followed by local sickle - 560.23, with plastic handle sickle 601.66, with wooden handle sickle- 611.78   respectively. The task performance was perceived as difficult with local sickle and Rajasthan Agriculture Depot Sickle while cutting fodder was perceived to be neutral when working with improved plastic handle sickle and wooden handle sickle. It was clearly evident that coverage of land under operation (sq. mt), production/unit (kg) was slightly less when working with the improved sickles, but worker comfort was more.
+\nThe environmental temperatures ranged from were 32-40.67⁰C while the activity was conducted, and humidity was  as high as 70%
+</string>
+    <string name="point11_limitation">The improved sickles were difficult to procure, as were not easily available in market.</string>
+    <string name="point11_source">Dr Suman Singh and Dr HemuRathore
+\nAnnual report  of AICRP-H.Sc. FRM, College of H Sc, Udaipur </string>
+    <string name="point11_dtf">Tested </string>
+    <string name="point11_Year">1999-2001</string>
+
+
+
+    <string name="point12_bb">In India more than 75% of rural women are involved in animal husbandry. Most commonly performed dairy activities by farm women are milking, cleaning of shed, bringing fodder and making dung cakes etc. It is explicitly known that women are exploited most without any consideration of workload demands. It has been seen that physical strain of women in dairy activity is very high and they generally suffer from various diseases. Studies have shown that the mean heart rate of male workers in dairy farming was 99 b. min-1 and for female workers it was 116 b.min-1. The physical strain of female women doing dairy farming seems to be too high because of heavy work and relatively low VO2 max. The present study was taken up to assess the physiological stress and musculoskeletal problems of rural farm women while performing the activity of making cow dung briquettes and to evaluate the available technology.
+</string>
+    <string name="point12_td">The experiments were done with the existing briquetting machine (Treatment 1), which was a small machine, which took more time and energy in making dung briquettes. The existing design of the machine was modified (Treatment 2) to overcome the problems. The design of Treatment 1 was modified by increasing the size of hopper, increasing the height of machine and diameter of the barrel. For ease in manual rotation of the handle double bearings were incorporated. But the experimentation with Treatment 2 also did not yield reduction in physiological workload, i.e. reduction of heart rate.
+\nHence after consultation with engineers the machine was motorized by connecting a 2 hp motor. Significant reduction in physiological cost was recorded while working with this motorized Treatment 3. The economics calculated was-
+\n2 hp. Motor = 1.49 kw/hr.
+ \n1.49 kw/hr = 1.8 units = 6.30 Rs.
+\nOutput/hr. = 15 kg
+</string>
+    <string name="point12_wf">Reduced their drudgery in cow dung making in terms of MSD and Time</string>
+    <string name="point12_performance">Good</string>
+    <string name="point12_ld">Nandvel – Dabok, Distt. Udaipur</string>
+    <string name="point12_oib">The physiological cost of work (PCW) decreased when the treatment was motorized and was as low as 19 b.min-1 in winter and 23 b.min-1 in summer
+\nWhen compared with traditional method severity of pain increased significantly while working with improved treatment 1 &amp; 2, which reduced considerably when using motorized machine (Treatments).</string>
+    <string name="point12_limitation">The briquetting machine is costly and women can’t afford it.</string>
+    <string name="point12_source">Dr Suman Singh and Dr HemuRathore
+\nAnnual report,  AICRP-HSc, FRM, College of H Sc, Udaipur   </string>
+    <string name="point12_dtf">Developed and tested</string>
+    <string name="point12_Year"></string>
+    <string name="point12_Cost">Rs. 4500/-</string>
+    <string name="point12_fm"></string>
+
+
+
+
+
+
+
+
+    <string name="point13_bb">Drudgery is generally conceived as physical and mental strain, agony, fatigue and repetitive work. The traditional method of maize shelling is drudgery prone and time consuming and mainly carried out by women. The objective of the study was to assess the improved technologies available for maize shelling i.e. tubular and Foot Operated Maize Sheller on the ergonomic parameters.</string>
+    <string name="point13_td">Selected rural women performed the activity of maize shelling with the use of improved technologies for the period of 20 minutes and the heart rate was recorded in the similar procedure as in the case of traditional method of doing the activity. Each experiment was replicated twice with the traditional method and with the use of improved technologies in order to elicit reliable data. Measurement of environmental parameters: Temperature and relative humidity were measured twice during the activity with the help of suitable instruments.</string>
+    <string name="point13_wf">The tubular and handle operated Maize Sheller makes the work faster and easier with less MSD for women.</string>
+    <string name="point13_performance">Both the technologies performed well.</string>
+    <string name="point13_ld">BrahminokiHunder,   BadgaonPanchyatSamiti, Udaipur</string>
+    <string name="point13_oib">The traditional method of maize shelling was beating cobs with stick.
+Total cardiac cost of work, physiological cost of work &amp; rated perceived exertion for maize shelling was also found to significantly decrease with use of Tubular Maize Sheller. Pain in every joint was reported by the farm women.40-80% pain reduction was sensed by the respondents when working with tubular maize Sheller. The Foot Operated Maize Sheller caused pain in thighs, knees, calf muscles and feet. </string>
+    <string name="point13_limitation">Machines are costly to afford</string>
+    <string name="point13_source">Dr Suman Singh and Dr HemuRathore
+\nAnnual Report AICRP – FRM, College of H Sc, Udaipur
+</string>
+    <string name="point13_dtf">Developed and tested</string>
+    <string name="point13_Year">2002-2003</string>
+    <string name="point13_Cost">Rs. 4000/-</string>
+    <string name="point13_fm"></string>
+
+
+
+
+
+
+
+    <string name="point14_bb">Cleaning of grains after harvesting is a time consuming process for the rural women where they spend hours together to clean and store the grain which is very tire some and full of boredom. Thus grain cleaners were assessed on ergonomic parameters </string>
+    <string name="point14_td">Grain cleaners namely Hanging type grain cleaner, pedal operated and motorized grain cleaners were used for the study. The research was planned in three phases based on the objectives with existing and improved methods. </string>
+    <string name="point14_wf">The machine saved time, energy and physical effort of women.</string>
+    <string name="point14_performance">Motorized cleaner was efficient
+</string>
+    <string name="point14_ld">BrahminokiHunder,   BadgaonPanchyatSamiti, Udaipur</string>
+    <string name="point14_oib">The Working Heart Rate and the corresponding energy expenditure were in acceptable limits\n.
+Grain cleaning activity was perceived as neutral with hanging type and motorized grain cleaner.  Sixty per cent decrease was seen in MSD</string>
+    <string name="point14_limitation"></string>
+    <string name="point14_source">Dr Suman Singh and Dr HemuRathore
+\n Annual Report AICRP – FRM, College of H Sc, Udaipur
+</string>
+    <string name="point14_dtf">Tested and refined</string>
+    <string name="point14_Year">2004-2005</string>
+    <string name="point14_Cost"></string>
+    <string name="point14_fm">Modifications done in the cleaning technologies
+\n1. The holes of the sieves provided supplied by the manufacture of hanging type cleaner were of big size. These were not appropriate for cleaning of wheat hence additional sieve with holes of smaller diameter were fabricated for cleaning of wheat.
+\n2. The pedal operated cleaner required lot of effort on the part of the women to pedal the machine. Hence the pedal operated cleaner was motorized by fixing 1HP motor which added to the convenience and comfort of the worker in low cost.
+    </string>
+
+
+
+
+
+
+    <string name="point15_bb">Drudgery is generally conceived as physical and mental strain, agony, fatigue and repetitive work. Traditional methods of maize shelling are drudgery prone and time consuming and mainly carried out by women. The objective was to assess Hand Operated Maize Sheller on the ergonomic parameters</string>
+    <string name="point15_td">The traditional method of hand shelling of maize was compared with Improved technology i.e. Hand Operated Maize Sheller.
+\nThe improved technology was made of heavy iron, weighing 13kg.
+</string>
+    <string name="point15_wf">Drudgery reducing and time saving.</string>
+    <string name="point15_performance">Good</string>
+    <string name="point15_ld">BhoiyonkiPancholi</string>
+    <string name="point15_oib">Ergonomic assessment of hand operated maize sheller in comparison to traditional method of manual shelling was done.
+\nThe average working heart rate (AHR) was more in case of Hand Operated Maize Sheller (108b-min)as compared to hand shelling (95b-min). But the increased heart rate was within acceptable limits for women workers, having no adverse effects on the worker. Similarly, the energy expenditure with use of improved tool was more (8.4kJ/min) as compared to traditional hand shelling (6.38kJ/min). The improved tool was proved to be efficient as the physiological parameters were in acceptable limits yielding 200% more output (6kg/hr) as compared to traditional hand shelling.</string>
+    <string name="point15_limitation">Shellers were not available easily in market.</string>
+    <string name="point15_source">Dr Suman Singh and Dr HemuRathore
+\nAnnual Report AICRP – FRM, College of H Sc, Udaipur</string>
+    <string name="point15_dtf">Tested </string>
+    <string name="point15_Year">2005-2006</string>
+    <string name="point15_Cost"></string>
+    <string name="point15_fm">Modifications suggested in Hand Maize Sheller
+\n1. The motion of handle is very obtrusive or jerky, so modification was done to make the handle smooth &amp; easy to operate. The sheller should be mounted on a stool so as to facilitate shelling in standing posture.</string>
+
+
+
+
+
+
+
+    <string name="point16_bb">‘Vadi’ is a dried and processed food item, made of various pulses in wet ground form, made almost in all parts of India. Women make ‘Vadi’ at household level and it is also available commercially. It is a tedious process to lay each ‘Vadi’ manually involving lot of time.</string>
+    <string name="point16_td">Vadi maker is a flat tray made of aluminum sheet with holes, with rubber legs/stand of 2” at the bottom, which keeps it little high from ground while laying vadi. The hole diameter can be variable according to the size of ‘Vadi’ needed.</string>
+    <string name="point16_wf">Saves time &amp; energy
+\nUniform size of vadi
+\nEasy and convenient to use
+</string>
+    <string name="point16_performance">The output of vadi maker to lay wet paste of pulse is  approximately 10kg/hr.</string>
+    <string name="point16_ld">Any region, urban or rural areas.</string>
+    <string name="point16_oib">Use of ‘Vadi’ maker either at household level or in a small scale production unit, is a boon. It is a magical device, where with a stroke of hand 120 Vadi’s can be laid.</string>
+    <string name="point16_limitation">Nil</string>
+    <string name="point16_source">DrSuman Singh &amp; DrHemuRathore
+\nAnnual Report AICRP – FRM, College of H Sc, Udaipur
+\nPh 0294-2471914
+Email: sumanfrm@gmail.com
+\nrathorehemu@rediffmail.com
+        \nwebsite: www.dmfw.org</string>
+    <string name="point16_dtf">Developed</string>
+    <string name="point16_Year">2012, for simplifying work of vadi making.</string>
+    <string name="point16_Cost">Rs. 200/-</string>
+    <string name="point16_fm">Vadi maker of different diameter for badi of different sizes can be fabricated as per regional choice.</string>
+
+
+
+
+
+
+    <string name="point17_bb">Cotton picking is predominantly done by women farmers. Traditionally, two practices are in vogue;
+        \n(i) woman go to field early morning, pick mature pods manually &amp; brings the pods home. During afternoon or any convenient time at home, they pick out cotton from pods. In this process they spend double time and some dirt also get mixed into the cotton, which affects selling price.
+\n(ii) In other practice women pick cotton directly from mature pods on the plant and collect it in bag made of their ‘sari’ they are wearing. The collected cotton is emptied at a safe place in the farm. This to and fro movement of emptying the load takes lot of time. In addition, they face hazards of cuts &amp; bruises on their skin of hands and face.
+</string>
+    <string name="point17_td">Cotton Picking Machine
+\nSuction used for picking cotton
+\nSealed lead acid battery - 12 V
+\nRegular charging of battery required
+\nCollection bag of 5kg capacity</string>
+    <string name="point17_wf">Less time and energy consumption
+\nDrudgery reduction
+\nCollection of clean cotton fetches better market price.</string>
+    <string name="point17_performance">The efficiency of machine is 6-7 kg/hr in contrast to 1-2 kg/hr by hand picking.</string>
+    <string name="point17_ld">Urban and rural areas of Udaipur and adjoining areas</string>
+    <string name="point17_oib">Drudgery Reduction: 71%
+\nSaving in Labour cost: 598%</string>
+    <string name="point17_limitation">Cotton can’t be picked with this machine in morning as plants are wet due to dew.</string>
+    <string name="point17_source">DrSuman Singh &amp; DrHemuRathore
+\nAnnual Report AICRP – FRM, College of H Sc, Udaipur
+\nPh 0294-2471914
+\nEmail: sumanfrm@gmail.com
+\nrathorehemu@rediffmail.com
+\n           website: www.dmfw.org</string>
+    <string name="point17_dtf">Tested</string>
+    <string name="point17_Year">2012</string>
+    <string name="point17_Cost">INR 8000-9000/-</string>
+    <string name="point17_fm"></string>
+
+
+
+
+
+
+    <string name="point18_bb">After harvesting of the cotton crop, the cotton stalks are difficult to remove. In traditional practice farmers generally wet the land and pull the stalks manually, which is very strenuous. The traditional method involves repeated bending from back which cause acute back pain. The limbs of muscles are also strained in process of manual pulling. </string>
+    <string name="point18_td">Stalk puller is a tool which is specially developed to pull the lengthy &amp; hard cotton stalks from land. Stalk puller is composed of two iron flat foots which are designed in such a way that stalk get clamped in between them, one end of foot is pressed by right leg &amp; stalks is pulled out by stretching the long handle. </string>
+    <string name="point18_wf">Reduce drudgery
+\nRelief from pain in leg, thighs, waist and shoulder
+\nTime and energy saving
+\nNo physical hazards
+</string>
+    <string name="point18_performance">Good. By the combined pressure of hand and legs, stalks get pulled out of soil.</string>
+    <string name="point18_ld">Rural areas of Udaipur and Rajsamand district and adjoining areas</string>
+    <string name="point18_oib">Drudgery reduction: 70 %
+\nLabor cost saving: 143 %
+\nIn addition to improved efficiency and output, there is relief in pain and jerk in shoulder &amp; waist resulting from pulling action in traditional style.</string>
+    <string name="point18_limitation"></string>
+    <string name="point18_source">DrSuman Singh &amp; DrHemuRathore
+\nAnnual Report, AICRP – FRM, College of H Sc, Udaipur
+\nPh 0294-2471914
+\nEmail: sumanfrm@gmail.com
+\nrathorehemu@rediffmail.com
+       \n   website: www.dmfw.org</string>
+    <string name="point18_dtf">Tested </string>
+    <string name="point18_Year">2013</string>
+    <string name="point18_Cost">INR 800-900/-</string>
+    <string name="point18_fm"></string>
+
+
+
+
+
+
+
+    <string name="point19_bb">Groundnut stripping is one of the tedious tasks for women farmers. Demanding lot of labour and time. Thus, groundnut stripper plays an important role in reducing drudgery of women in stripping. Stripping of groundnut pods in traditional manner is done either by removing pods by hands specially fingers or by hitting the bunches of groundnut bushes with a rod or on stone. The traditional method is tedious and causes injury to finger tips and musculoskeletal problem in shoulders, hands and neck are very common.                     </string>
+    <string name="point19_td">Groundnut stripper is a tool to strip off the groundnuts quickly and easily thus reducing the MSDs &amp; injuries. This is available in two models:
+        \n(i) standing and (the single line stripper mounted on a table of elbow height)
+        \n(ii) sitting (the single line stripper is mounted on a wooden plank of 6 inches height).
+This equipment has triangular hooks at the top on which the root part of the shrub is to be stroked. The groundnut fits into the hook and get detached from root. The same process is for both the types of tools. The machine will work easily on dry and partly moisten shrubs.</string>
+    <string name="point19_wf">Ease in working both in standing and sitting postures
+\nSaves time, improves efficiency and output
+\nReduce injury  in nails and fingers &amp; palm
+\nReduction in MSDs in shoulder and neck</string>
+    <string name="point19_performance">Easy to use and output is enhanced</string>
+    <string name="point19_ld">Rural areas especially regions where groundnut is grown</string>
+    <string name="point19_oib">Drudgery reduction: 24 percent
+\nUse of groundnut stripper proved miraculous as by use of groundnut stripper, whole day task of 2 persons for 5-6 hours was completed within 2½ hours. With traditional method approx. 15-20 kg groundnut pods could be separated per hour but with use of groundnut stripper 50 kg pods could be stripped off per hour which is about two and a half times more than traditional method.</string>
+    <string name="point19_limitation">Transportation from one place to another is difficult</string>
+    <string name="point19_source">DrSuman Singh &amp; DrHemuRathore
+\nAnnual Report, AICRP – FRM, College of H Sc, Udaipur
+\nPh 0294-2471914
+\nEmail: sumanfrm@gmail.com
+\nrathorehemu@rediffmail.com
+\n             website: www.dmfw.org
+</string>
+    <string name="point19_dtf">Refined</string>
+    <string name="point19_Year">2013</string>
+    <string name="point19_Cost">Standing type:  Rs. 2000/-
+\nSitting type: 1600/-</string>
+    <string name="point19_fm"></string>
+
+
+
+
+
+    <string name="point20_bb">Groundnut stripping is one of the tedious tasks for women farmers. Demanding lot of labour and time. Thus groundnut stripper plays an important role in reducing drudgery of women in stripping. Stripping of groundnut pods in traditional manner is done either by removing pods by hands specially fingers or by hitting the bunches of nuts on groundnut bushes with a rod or on stone. The traditional method is tedious and causes injury to finger tips and musculoskeletal problem in shoulders, hands and neck are very common.</string>
+    <string name="point20_td">This tool is made up of iron sheet designed in comb type structure. It has weight of just 200 gms. It is handy, portable, comfortable and convenient to use. It has efficiency of 6-8 kg per over 2-3kg per hour of traditional practice. It is very useful at the end of kharif season, because the dried groundnut plants are ready for stripping off groundnut pods from the cut plants. The teeth of this comb catch the pods and stripped off from plants root.</string>
+    <string name="point20_wf">Save time
+\nReduced hazards in nails, fingers and palm
+\nRelief in pain at waist, elbow, wrist and neck</string>
+    <string name="point20_performance">Easy to use and output is increased
+</string>
+    <string name="point20_ld">Groundnut growing regions
+</string>
+    <string name="point20_oib">Drudgery reduction: 74%
+\nTime Saving: 241%</string>
+    <string name="point20_limitation"></string>
+    <string name="point20_source">
+        DrSuman Singh  &amp; DrHemuRathore
+\nFRM Dept, College of Home Science, MPUAT, Udaipur
+\nPh 0294-2471914
+\nEmail: sumanfrm@gmail.com
+\nrathorehemu@rediffmail.com
+           \n  website: www.dmfw.org
+    </string>
+    <string name="point20_dtf">Designed</string>
+    <string name="point20_Year">2013</string>
+    <string name="point20_Cost">Rs. 200/-</string>
+    <string name="point20_fm"></string>
+
+
+
+
+
+
+
+    <string name="point21_bb">The huts of tribal people in Rajasthan are dark and dingy as they don’t keep any window in their huts for various reasons. They use kerosene lamps for visibility even during the day which causes indoor air pollution. In order to improve availability of daylight inside huts, fiberkelu (tile) was designed.</string>
+    <string name="point21_td">The size and shape of fiberglass kelu matches the traditional kelu, hence fits well and also resist rain water seepage inside the hut. The kelu should be fitted on the south side of roof for better availability of day light.</string>
+    <string name="point21_wf">Improve visibility inside hut during day
+\nEliminate indoor air pollution caused due to kerosene lamp.
+\nFits well, safe &amp; affordable.
+</string>
+    <string name="point21_performance">The light intensity just below the kelu in the room was 36 lux and it was 24 lux in the center of the room against total darkness in the room before installation of kelu.</string>
+    <string name="point21_ld">Urban and rural areas of Udaipur and adjoining areas</string>
+    <string name="point21_oib">Increased lux was beneficial as they did not light a kerosene chimney during the day which in turn reduced the indoor air pollution.</string>
+    <string name="point21_limitation">Different shape roof tiles are used in different regions so design has to be area specific.</string>
+    <string name="point21_source">DrSuman Singh &amp; DrHemuRathore
+\nAnnual Report, AICRP – FRM, College of H Sc, Udaipur
+\nPh 0294-2471914
+\nEmail: sumanfrm@gmail.com
+\nrathorehemu@rediffmail.com
+           \nwebsite: www.dmfw.org</string>
+    <string name="point21_dtf">Designed</string>
+    <string name="point21_Year">2013</string>
+    <string name="point21_Cost">Rs. 150-200/</string>
+    <string name="point21_fm">The shape and size of tile may differ from region to region.</string>
+
+
+
+
+
+    <string name="point22_bb">Vegetable picking is often a task performed by women in agriculture. Along with picking the collection of harvested/picked vegetables is also a tedious job. The designed Harvest bag is an apt solution for this drudgery prone task.
+\nWomen also face lot of health hazards of inhaling tiny dust and threshed particles while helping men folks during threshing of wheat and other crops on threshers. Also, working in bright sun for long hours exposes them to serious hazards of heat stroke etc. Use of Capron can give them relief from such hardships.
+</string>
+    <string name="point22_td">Multipurpose Harvest Bag is in the form of stitched ready to wear bag. It has two front pockets to put the pick vegetables or cotton or any other harvest. Front pockets allow dropping of harvest in the bag appropriately without falling on ground. It permits proper distribution of load (weight) on the body thereby exerting less pressure on shoulders of the women farmers.
+\nCapron is basically a cap combined with apron. It is used to cover the head region of the body extended up to chest while working in fields in hot sun. It is made up of cotton cloth and easy to fasten. Capron with nose mask is specifically useful at the time of harvesting of crops as prevents inhaling of crop dust.</string>
+    <string name="point22_wf">•	Less time and energy consumption
+\n•	Drudgery reduction
+\n•	prevents inhaling of crop dust.
+</string>
+    <string name="point22_performance">Easy to use and prevents occupational health hazards </string>
+    <string name="point22_ld">Urban and rural areas </string>
+    <string name="point22_oib">Drudgery reduction: 38%
+\nRelief in pain upto 50% at wrist, shoulder &amp; back
+\nIncreased work efficiency</string>
+    <string name="point22_limitation">
+</string>
+    <string name="point22_source">DrSuman Singh &amp; DrHemuRathore
+\nAnnual Report, AICRP – FRM, College of H Sc, Udaipur
+\nPh 0294-2471914
+\nEmail: sumanfrm@gmail.com
+\nrathorehemu@rediffmail.com
+\n            website: www.dmfw.org</string>
+    <string name="point22_dtf">Developed &amp; Field Tested</string>
+    <string name="point22_Year">2007-2008</string>
+    <string name="point22_Cost">Rs. 150-200/</string>
+    <string name="point22_fm"></string>
+
+
+
+
+    <string name="point23_bb">Today most of agriculture activities are on the way of mechanization but there are still such activities which are far from mechanization because of small landholdings and various other reasons. One such activity is harvesting of fruits and vegetables.
+\nHarvesting of vegetables and other field crops like wheat, sorghum etc in squatting position for long hours causes musculoskeletal disorders called Farmer Disease. This simple technology is a boon to relieve such disorders.</string>
+    <string name="point23_td">It is basically low height sitting bath-stool as per squatting height of women which is cushioned. The cushioning of 2 inches on stool is done with belts attached to tie on thighs while working in squatting posture.
+\nWeight : 597 gms
+\nHeight: seat 4” + 2” cushioning (total 6”), with a slope of 1”from back to front.
+\nSeat circumference: 9”</string>
+    <string name="point23_wf">The ‘AARAM’ cushion seat is comfortable, and gives remarkable working efficiency and ease while picking leafy vegetables like spinach, fenugreek leaves, green onions etc. and also cutting cereal and pulse crops like wheat, sorghum, various pulses etc. It is also useful while cutting green fodder in squatting posture. The work comfort is high as the weight of body is on the seat and not on thighs while squatting, thus there is great relief from back &amp; knee pain.</string>
+    <string name="point23_performance">Easy, comfortable, soft, convenient to use. Reduces the stress on thighs and calf muscles.
+</string>
+    <string name="point23_ld">Urban and rural areas.
+</string>
+    <string name="point23_oib">Reduced MSD
+\nRelief in pain up to 50% in thighs and legs.</string>
+    <string name="point23_limitation">The uneven ground/field sometimes poses balancing problems. </string>
+    <string name="point23_source">DrSuman Singh  &amp; DrHemuRathore
+\nAnnual Report, AICRP – FRM, College of H Sc, Udaipur
+\nPh 0294-2471914
+\nEmail: sumanfrm@gmail.com
+\nrathorehemu@rediffmail.com
+\n            website: www.dmfw.org
+</string>
+    <string name="point23_dtf">Designed and Developed</string>
+    <string name="point23_Year">2014</string>
+    <string name="point23_Cost">Rs. 200-250/</string>
+    <string name="point23_fm"></string>
+
+
+
+
+    <string name="point24_bb">Vegetable picking is often a task performed by women in agriculture. Along with picking the collection of harvested/picked vegetables is also a tedious job. The designed Harvest bag is an apt solution for this drudgery prone task.
+\nPicking and collecting of vegetables is especially manual work that cannot be done by machines. Picking of Okra, desi varieties of brinjal and many more vegetables having thorns and spikes poses hazards to farmers. The farmers look for easy &amp; convenient tool for picking and collection of vegetables.</string>
+    <string name="point24_td">Apron
+\nThe bag resists abrasion and cushions fruits, thus, protects the fruit and vegetable from spoilage.
+\nWide adjustable shoulder strap is well padded for comfort.
+\nQuick release of collected material through zip at the bottom.
+\nIncrease in efficiency, less hazards, both hands can be used for plucking.
+\nCapacity-7 kg. Apron type veg picking  bag
+\nVegetable Plucker
+\nIt’s a finger ring type of tool of steel/metal with a cutting blade on one side. This can be worn in index finger like a ring and cutting/ plucking of vegetables can be easily done.</string>
+    <string name="point24_wf">It was very convenient for the OKRA pickers , they can use both the hands for picking of vegetables </string>
+    <string name="point24_performance">Easy, soft, convenient to use, time saving</string>
+    <string name="point24_ld">Urban and rural areas of Udaipur and adjoining areas</string>
+    <string name="point24_oib">Reduced MSD, Increased convenience</string>
+    <string name="point24_limitation">The attitudinal constraint of a few women.</string>
+    <string name="point24_source">DrSuman Singh &amp; DrHemuRathore
+\nAnnual Report, AICRP – FRM, College of H Sc, Udaipur
+\nPh 0294-2471914
+\nEmail: sumanfrm@gmail.com
+\nrathorehemu@rediffmail.com
+         \n    website: www.dmfw.org</string>
+    <string name="point24_dtf">Designed and Developed</string>
+    <string name="point24_Year">2015</string>
+    <string name="point24_Cost">Rs. 300-350/-
+
+</string>
+    <string name="point24_fm"></string>
+    <string name="aboutus"><b>All Rights Reserved:</b> Scientific/technical information contained in this report is based on unprocessed/processed data, which would form the basis for scientific or technical publications. Hence, this information may not be made use of without the permission of the Institute/Research Unit, except for quoting it as scientific reference.</string>
+    <string name="publishby"><b>Published by:</b> AICRP on H Sc, College of Home Science, MPUAT, Udaipur, Raj</string>
+    <string name="pagelayout"><b>Page Layout:</b> DrArpita Jain, SRF, AICRP on H Sc</string>
+    <string name="printedat"><b>Printed at:</b> Communication Centre, DPM, MPUAT, Udaipur</string>
+    <string name="aboutustitle"><![CDATA[AICRP on Home Science
+(FRM Component)
+Technologies to Empower Women Farmers]]></string>
+    <string name="prof"><![CDATA[Dr Suman Singh
+PI & Unit Coordinator]]></string>
+    <string name="prof2"><![CDATA[Dr Hemu Rathore
+Associate Professor]]></string>
+    <string name="allindia"><![CDATA[All India Coordinated Research Project on
+Home Science-Family Resource Management
+Component College of Home Science]]></string>
+    <string name="suman"><![CDATA[AICRP on H Sc,
+College of Home Science, MPUAT, Udaipur, Raj]]></string>
+    <string name="and"><![CDATA[&
+Dr Hemu Rathore, Associate Professor]]></string>
+    <string name="hema"><![CDATA[AICRP on H Sc- FRM Component
+College of Home Science, MPUAT, Udaipur, Raj]]></string>
+    <!--<string name="point21_bb"></string>-->
+    <!--<string name="point21_td"></string>-->
+    <!--<string name="point21_wf"></string>-->
+    <!--<string name="point21_performance"></string>-->
+    <!--<string name="point21_ld"></string>-->
+    <!--<string name="point21_oib"></string>-->
+    <!--<string name="point21_limitation"></string>-->
+    <!--<string name="point21_source"></string>-->
+    <!--<string name="point21_dtf"></string>-->
+    <!--<string name="point21_Year"></string>-->
+    <!--<string name="point21_Cost"></string>-->
+    <!--<string name="point21_fm"></string>-->
+
+
 </resources>
